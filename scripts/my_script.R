@@ -1,6 +1,4 @@
 
-# change working directory
-setwd("/Users/casillas/Desktop/my_proj")
 
 # Combine files vertically into large data frame
 temp <- list.files(path = "./data", full.names = TRUE, pattern = ".csv")
